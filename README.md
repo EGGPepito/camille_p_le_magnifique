@@ -63,7 +63,7 @@
 
    <div class="feature-box" id="feature-1">
             <h3>Feature One</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.</p>
+            <p>en gros camille je laime ut labore.</p>
             <p><a href="#">Read more</a></p>
           </div>
 
