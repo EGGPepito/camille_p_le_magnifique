@@ -29,7 +29,7 @@
     <!-- ===== HEADER ===== -->
    <div id="header">
       <div id="logo">
-        <h1><a href="index.html">My Website</a></h1>
+        <h1><a href="index.html">le front de ponecelet</a></h1>
         <p class="tagline">petition camille chauve</p>
       </div>
     </div>
