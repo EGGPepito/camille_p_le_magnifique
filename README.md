@@ -47,7 +47,7 @@
 
     <!-- ===== HERO / BANNER ===== -->
    <div id="hero">
-      <h2>Welcome to My Website</h2>
+      <h2>camille chauve</h2>
       <p>A short introduction that tells visitors what this site is about.</p>
       <p><a href="services.html" class="button">Learn More</a></p>
     </div>
