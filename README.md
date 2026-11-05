@@ -137,7 +137,7 @@
       <!-- end #sidebar -->
 
       <!-- Clear floats here once you add CSS floats -->
-      <div class="clear"></div>
+   <div class="clear"></div>
 
    </div>
     <!-- end #main -->
