@@ -1,5 +1,4 @@
 # camille_p_le_magnifique
-ta daronne
 [index (2).html](https://github.com/user-attachments/files/34434439/index.2.html)
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
