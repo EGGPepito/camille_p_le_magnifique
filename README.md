@@ -6,8 +6,8 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="description" content="Short description of your website">
   <meta name="keywords" content="keyword1, keyword2, keyword3">
-  <meta name="author" content="Your Name">
-  <title>My Website - Home</title>
+  <meta name="author" content="hehe">
+  <title>hehe</title>
 
   <!-- CSS: link an external stylesheet here later -->
   <!-- <link rel="stylesheet" type="text/css" href="css/style.css"> -->
