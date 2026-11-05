@@ -1,9 +1,7 @@
-# camille_p_le_magnifique
-[index (2).html](https://github.com/user-attachments/files/34434439/index.2.html)
-
+[index.html](https://github.com/user-attachments/files/34434992/index.html)
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
    "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="en">
+<html lang="fr">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="description" content="Short description of your website">
@@ -29,17 +27,17 @@
   <div id="wrapper">
 
     <!-- ===== HEADER ===== -->
-  <div id="header">
+    <div id="header">
       <div id="logo">
         <h1><a href="index.html">My Website</a></h1>
-        <p class="tagline">qm i fat</p>
+        <p class="tagline">Your catchy tagline goes here</p>
       </div>
     </div>
 
     <!-- ===== NAVIGATION ===== -->
-  <div id="navigation">
+    <div id="navigation">
       <ul>
-        <li><a href="index.html">Home</a></li>
+        <li><a href="home.html">Home</a></li>
         <li><a href="about.html">About</a></li>
         <li><a href="services.html">Services</a></li>
         <li><a href="blog.html">Blog</a></li>
@@ -48,17 +46,17 @@
     </div>
 
     <!-- ===== HERO / BANNER ===== -->
-  <div id="hero">
-      <h2>Welcome to My Website</h2>
+    <div id="hero">
+      <h2>ur zesty</h2>
       <p>A short introduction that tells visitors what this site is about.</p>
       <p><a href="services.html" class="button">Learn More</a></p>
     </div>
 
     <!-- ===== MAIN AREA (content + sidebar) ===== -->
-  <div id="main">
+    <div id="main">
 
       <!-- ----- Main content column ----- -->
-  <div id="content">
+      <div id="content">
 
         <div class="section" id="featured">
           <h2>Featured</h2>
