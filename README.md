@@ -30,7 +30,7 @@
    <div id="header">
       <div id="logo">
         <h1><a href="index.html">le front de ponecelet</a></h1>
-        <p class="tagline">petition camille chauve</p>
+        <p class="tagline">dsl cam</p>
       </div>
     </div>
 
