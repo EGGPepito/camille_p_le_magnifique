@@ -30,7 +30,7 @@
    <div id="header">
       <div id="logo">
         <h1><a href="index.html">My Website</a></h1>
-        <p class="tagline">Your catchy tagline goes here</p>
+        <p class="tagline">petition camille chauve</p>
       </div>
     </div>
 
